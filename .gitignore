@@ -1,2 +1,3 @@
 ####GITIGNORE
-
+**/imagenes/.png
+**/historia
