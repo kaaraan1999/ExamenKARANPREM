@@ -4,3 +4,5 @@
 * Batman
 * Daredevil
 * Aquaman
+* Supergirl
+* Shazam
