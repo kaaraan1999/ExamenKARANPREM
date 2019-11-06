@@ -1,6 +1,5 @@
 # Heroes
 
-* Superman
-* Batman
-* Daredevil
+* Flash
+* Wonder Woman
 * Aquaman
